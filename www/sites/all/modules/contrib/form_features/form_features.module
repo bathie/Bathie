@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the form_features feature.
+ */
+
+include_once('form_features.features.inc');
